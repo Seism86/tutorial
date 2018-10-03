@@ -5,3 +5,6 @@ public static class Class1
 		
 	}
 }
+
+class RootPaneContainer{
+}
